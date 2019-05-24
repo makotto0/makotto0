@@ -487,6 +487,8 @@ body {
   @media (max-width: 1180px) {
     .about {
       max-width: 100%; } }
+  .about p {
+    padding: 0 0 20px 0; }
   .about--banner {
     position: relative;
     height: 475px; }
